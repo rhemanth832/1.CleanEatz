@@ -1,2 +1,3 @@
-# 1.CleanEatz
-CleanEatz - A Healthy Food Delivery Website Template
+CleanEatz is a modern healthy food delivery website designed to make clean eating simple, affordable, and accessible for everyone. Whether you're focused on weight loss, muscle gain, or simply maintaining a healthier lifestyle, CleanEatz offers a variety of customizable meal plans and individual dishes made from fresh, nutrient-rich ingredients.
+
+From calorie-counted meals to vegan and keto-friendly options, users can browse a curated menu, schedule deliveries, and manage their diet plans – all in a few clicks. With an easy-to-use interface, fast delivery system, and a commitment to quality and wellness, CleanEatz helps you stay healthy without compromising on taste or convenience.
